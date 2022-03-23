@@ -8,5 +8,7 @@
         public string city { get; set; }
         public float age { get; set; }
         public string gender { get; set; }
+
+        public string state { get; set; }
     }
 }
